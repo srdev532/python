@@ -25,3 +25,5 @@ displayInventory(stuff)
 addToInventory(stuff, dragonLoot)
 
 Hello world
+
+Try to compare the difference
